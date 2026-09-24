@@ -150,12 +150,17 @@ activemq-data/
 # Environments
 .env
 .envrc
-.venv
+.venvl
+.learn-env
+.ml-env
+env/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+learn-env/
+ml-env/
 
 # Spyder project settings
 .spyderproject
